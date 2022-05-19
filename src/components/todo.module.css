@@ -1,0 +1,48 @@
+.todoList{
+    align-items: center;
+    margin-left: 40%;
+    border-radius: 10px;
+    padding: 5px;
+    width: 20%;
+    
+}
+.todo{
+    display: flex;
+    max-width: 200px;
+    margin-top: 15px;
+    background-color: white;
+    padding: 5px;
+    justify-content: space-between;
+    font-size: 25px;
+    border: 1px solid blue;
+    border-radius: 10px;
+
+}
+.container{
+    margin-top: 20px;
+    padding: 10px;
+    width: 30%;
+    margin: auto;
+  
+}
+body{
+    background-color: gainsboro;
+}
+.input{
+    padding: 20px;
+    border-radius: 10px;
+    border: 0px;
+}
+.btn{
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: 15px;
+    border: 0px;
+}
+.radio{
+    top: 0;  
+    left: 0;  
+    height: 30px;  
+    width: 30px;  
+    border-radius: 50%;  
+  }  
